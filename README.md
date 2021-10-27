@@ -4,3 +4,5 @@ Gets the track audio analysis for the current song playing in Spotify and change
 https://developer.spotify.com/console/get-user-player/
 
 https://developer.spotify.com/console/get-audio-analysis-track/
+
+https://www.yeelight.com/en_US/developer
